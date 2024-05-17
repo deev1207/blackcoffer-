@@ -1,0 +1,19 @@
+.canvas {
+    width: 1435px;
+}
+
+.chart-container {
+    width: 1235px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
